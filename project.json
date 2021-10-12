@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.4",
+  "name": "BackgroundTest",
+  "id": "143c9fcc-1599-441a-8bc2-40867906aaf5",
+  "isNew": false
+}
